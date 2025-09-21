@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![An image of @rohansutar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohansutar)](https://holopin.io/@rohansutar)
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohanssutar&show_icons=true&theme=radical)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!--
 **Rohanssutar/Rohanssutar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
