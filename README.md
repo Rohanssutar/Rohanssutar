@@ -4,7 +4,7 @@
     <img src="https://holopin.me/rohansutar" alt="@rohansutar's Holopin badges" />
   </a>
 </p>
-[![An image of @rohansutar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohansutar)](https://holopin.io/@rohansutar)
+
 - 🔭 I’m currently working on: **Python Development**
 - 🌱 I’m currently learning: **Python, DSA**
 - 🎯 Goals for 2025: **Contribute to projects in Hackotberfest**
